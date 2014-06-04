@@ -1,0 +1,4 @@
+resourcespace
+=============
+
+mma-dksz-Resourcespace
