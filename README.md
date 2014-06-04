@@ -1,4 +1,5 @@
 resourcespace
 =============
 
-mma-dksz-Resourcespace
+Made some custom modification on the original resourcespace.
+Hungarian language support added. - some minimal config
